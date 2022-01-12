@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arseniypetrikor&count_private=true&show_icons=true">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arseniypetrikor">
 </p>
 
 <h2 align="center">CodersRank experience graph</h2>
